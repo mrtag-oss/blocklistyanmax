@@ -57,3 +57,4 @@ web.max.ru
 oneme.ru
 okcdn.ru
 mycdn.me
+vk-analytics.ru
