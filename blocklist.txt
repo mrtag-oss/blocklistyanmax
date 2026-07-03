@@ -51,6 +51,7 @@ maps.yandex.ru
 mail.yandex.ru
 telemost.yandex.ru
 max.ru
+*.max.ru
 st.max.ru
 web.max.ru
 sdk-api.apptracer.ru
