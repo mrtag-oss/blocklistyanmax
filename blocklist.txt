@@ -57,3 +57,5 @@ sdk-api.apptracer.ru
 id.vk.ru
 *.oneme.ru
 *.okcdn.ru
+api.oneme.ru
+api.okcdn.ru
