@@ -54,3 +54,4 @@ max.ru
 legal.max.ru
 download.max.ru
 web.max.ru
+oneme.ru
