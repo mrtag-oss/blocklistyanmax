@@ -55,3 +55,5 @@ legal.max.ru
 download.max.ru
 web.max.ru
 oneme.ru
+okcdn.ru
+mycdn.me
