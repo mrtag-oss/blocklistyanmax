@@ -55,6 +55,5 @@ st.max.ru
 web.max.ru
 sdk-api.apptracer.ru
 id.vk.ru
-oneme.ru
-okcdn.ru
-maxvd670.okcdn.ru
+*.oneme.ru
+*.okcdn.ru
