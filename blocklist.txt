@@ -61,3 +61,15 @@ id.vk.ru
 *.okcdn.ru
 api.oneme.ru
 api.okcdn.ru
+# === Телеметрия и слежка VK/Макс ===
+tracker-api.vk-analytics.ru
+sdk-api.apptracer.ru
+stats.rustore.ru
+
+# === Основные API мессенджера Макс ===
+max.ru
+go.max.ru
+download.max.ru
+
+# === Трекинг локации ===
+geocode-maps.yandex.ru
