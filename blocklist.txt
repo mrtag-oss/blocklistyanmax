@@ -52,6 +52,7 @@ mail.yandex.ru
 telemost.yandex.ru
 max.ru
 *.max.ru
+legal.max.ru
 st.max.ru
 web.max.ru
 sdk-api.apptracer.ru
