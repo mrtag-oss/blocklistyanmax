@@ -57,4 +57,4 @@ web.max.ru
 oneme.ru
 okcdn.ru
 mycdn.me
-vk-analytics.ru
+tracker-api.vk-analytics.ru
