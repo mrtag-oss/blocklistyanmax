@@ -51,25 +51,6 @@ maps.yandex.ru
 mail.yandex.ru
 telemost.yandex.ru
 max.ru
-*.max.ru
 legal.max.ru
-st.max.ru
-web.max.ru
-sdk-api.apptracer.ru
-id.vk.ru
-*.oneme.ru
-*.okcdn.ru
-api.oneme.ru
-api.okcdn.ru
-# === Телеметрия и слежка VK/Макс ===
-tracker-api.vk-analytics.ru
-sdk-api.apptracer.ru
-stats.rustore.ru
-
-# === Основные API мессенджера Макс ===
-max.ru
-go.max.ru
 download.max.ru
-
-# === Трекинг локации ===
-geocode-maps.yandex.ru
+web.max.ru
