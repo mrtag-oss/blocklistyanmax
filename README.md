@@ -30,7 +30,7 @@ How to install?
 RethinkDNS
 1. Download the `Rethink_xxxx.rbk` file from the repository
 2. Download the app from the official website (https://rethinkdns.com/)
-3. Navigate to: Configure > Settings > Backup and Restore > Restore > Restore, then select the previously downloaded file
+3. Navigate to: Configure - Settings - Backup and Restore - Restore - Restore, then select the previously downloaded file
 4. The app will restart and automatically launch the new configuration
 
 AdGuard
