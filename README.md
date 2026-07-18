@@ -16,10 +16,12 @@ Adguard
 3. Зайти в настройки DNS-фильтров (редактор DNS-фильтров) отключить все фильтры (по желанию)
 4. Нажать Добавить DNS-фильтр (+ в списке фильтров)
 5. Нажать импорт фильтра (для пк - версии)
-6. Вставить ссылку https://raw.githubusercontent.com/mrtag-oss/blocklistyanmax/refs/heads/main/blacklistadguard.txt
+6. Вставить ссылку https://raw.githubusercontent.com/mrtag-oss/blocklistyanmax/refs/heads/main/blacklistadguard.txt или https://gitlab.com/mrtag-oss1/blocklistyanmax/-/raw/main/blacklistadguard.txt?ref_type=heads
 7. Нажать Добавить (или Далее)
 8. Ввести название фильтра (на телефонах)
 9. Нажать Добавить
+
+Зеркало репозитория https://gitlab.com/mrtag-oss1/blocklistyanmax/
 
 Engish
 
@@ -39,7 +41,9 @@ AdGuard
 3. Go to DNS filter settings (DNS filter editor) and disable all filters (optional)
 4. Click "Add DNS filter" (+ in the filter list)
 5. Click "Import filter" (for the PC version)
-6. Paste the link: https://raw.githubusercontent.com/mrtag-oss/blocklistyanmax/refs/heads/main/blacklistadguard.txt
+6. Paste the link: https://raw.githubusercontent.com/mrtag-oss/blocklistyanmax/refs/heads/main/blacklistadguard.txt or https://gitlab.com/mrtag-oss1/blocklistyanmax/-/raw/main/blacklistadguard.txt?ref_type=heads
 7. Click "Add" (or "Next")
 8. Enter a name for the filter (on mobile devices)
 9. Click "Add"
+
+Repository mirror: https://gitlab.com/mrtag-oss1/blocklistyanmax/
