@@ -124,6 +124,7 @@
 ||planner.mail.ru^
 ||aliexpress.ru^
 ||vk.company^
+||yandex.cloud^
 
 ! Yandex DNS IPv4
 ||77.88.8.8^
