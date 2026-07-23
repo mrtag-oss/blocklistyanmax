@@ -130,6 +130,7 @@
 ||cdn.shedevrum.ai^
 ||startup.mobile.yandex.net^
 ||report.appmetrica.yandex.net^
+||apptracer.ru^
 
 ! Yandex DNS IPv4
 ||77.88.8.8^
